@@ -1,2 +1,4 @@
 # EPS264_Project
 Code for the term project of EPS 264: Geochemical Thermodynamics during the Winter Quarter of 2026. 
+
+This repository contains multiple files of code, but the two most important are exsolution_profiles_EPS264_022626.ipynb and BD_PIPE_ShiruiAltered.m. The former file is used to calculate the degassing paths using the VESIcal repository (Iacovino, K., Matthews, S., Wieser, P. E., Moore, G. M., & Begue, F. (2021). VESIcal v. 1.0.1 (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5095382). This can be run on the ENKI server or however you choose ot run ThermoEngine. Tutorials can be found at https://vesical.readthedocs.io/en/latest/install.html. The latter file is from Peng et al (2022), which numerical solves for the propagation of an interfacial wave between the core nad annulus of a volcanic conduit under the bidrectional (core-annular) flow regime. I have altered the code to 
